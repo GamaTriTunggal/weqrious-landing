@@ -511,75 +511,35 @@ a {
     color: rgba(255, 255, 255, 0.8);
 }
 
-.contact-cards {
+.contact-list {
     display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: var(--spacing-2xl);
+    flex-direction: column;
+    align-items: center;
+    gap: var(--spacing-lg);
 }
 
-.contact-card {
-    background-color: rgba(255, 255, 255, 0.1);
-    backdrop-filter: blur(10px);
-    padding: var(--spacing-2xl);
-    border-radius: var(--radius-xl);
-    text-align: center;
-    min-width: 280px;
-    border: 1px solid rgba(255, 255, 255, 0.1);
-    transition: all var(--transition-base);
-}
-
-.contact-card:hover {
-    background-color: rgba(255, 255, 255, 0.15);
-    transform: translateY(-4px);
-}
-
-.contact-avatar {
-    width: 80px;
-    height: 80px;
-    background: linear-gradient(135deg, var(--color-primary) 0%, var(--color-accent) 100%);
-    border-radius: var(--radius-full);
+.contact-item {
     display: flex;
     align-items: center;
-    justify-content: center;
-    font-size: var(--font-size-2xl);
-    font-weight: 700;
+    gap: var(--spacing-md);
     color: white;
-    margin: 0 auto var(--spacing-lg);
-}
-
-.contact-card h3 {
     font-size: var(--font-size-xl);
-    font-weight: 600;
-    margin-bottom: var(--spacing-xs);
-}
-
-.contact-role {
-    color: rgba(255, 255, 255, 0.7);
-    font-size: var(--font-size-sm);
-    margin-bottom: var(--spacing-lg);
-}
-
-.contact-phone {
-    display: inline-flex;
-    align-items: center;
-    gap: var(--spacing-sm);
-    background-color: var(--color-primary);
-    color: white;
-    padding: var(--spacing-sm) var(--spacing-lg);
-    border-radius: var(--radius-full);
     font-weight: 500;
+    padding: var(--spacing-md) var(--spacing-xl);
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: var(--radius-full);
+    border: 1px solid rgba(255, 255, 255, 0.2);
     transition: all var(--transition-base);
 }
 
-.contact-phone:hover {
-    background-color: var(--color-accent);
+.contact-item:hover {
+    background-color: var(--color-primary);
     transform: scale(1.05);
 }
 
-.contact-phone svg {
-    width: 18px;
-    height: 18px;
+.contact-item svg {
+    width: 24px;
+    height: 24px;
 }
 
 /* ===================================
@@ -732,12 +692,8 @@ a {
         font-size: var(--font-size-base);
     }
 
-    .contact-cards {
-        gap: var(--spacing-lg);
-    }
-
-    .contact-card {
-        min-width: 100%;
-        padding: var(--spacing-xl);
+    .contact-item {
+        font-size: var(--font-size-lg);
+        padding: var(--spacing-sm) var(--spacing-lg);
     }
 }
