@@ -186,15 +186,18 @@ a {
     box-shadow: var(--shadow-md);
 }
 
-/* Nav Actions (Login + Theme Toggle) */
-.nav-actions {
+/* Theme Switcher (3-way toggle) - Column 1 */
+.theme-switcher {
     display: flex;
-    align-items: center;
-    gap: var(--spacing-md);
-    grid-column: 3;
-    justify-self: end;
+    background: rgba(255, 255, 255, 0.15);
+    border-radius: var(--radius-full);
+    padding: 3px;
+    gap: 2px;
+    grid-column: 1;
+    justify-self: start;
 }
 
+/* Nav Login Button - Column 3 */
 .nav-login {
     background: rgba(255, 255, 255, 0.95);
     color: var(--color-primary-dark);
@@ -203,20 +206,13 @@ a {
     font-weight: 600;
     font-size: var(--font-size-sm);
     transition: all var(--transition-base);
+    grid-column: 3;
+    justify-self: end;
 }
 
 .nav-login:hover {
     transform: translateY(-2px);
     box-shadow: var(--shadow-md);
-}
-
-/* Theme Switcher (3-way toggle) */
-.theme-switcher {
-    display: flex;
-    background: rgba(255, 255, 255, 0.15);
-    border-radius: var(--radius-full);
-    padding: 3px;
-    gap: 2px;
 }
 
 .theme-option {
