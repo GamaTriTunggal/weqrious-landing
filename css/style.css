@@ -145,7 +145,7 @@ a {
    =================================== */
 .nav {
     display: grid;
-    grid-template-columns: 1fr auto 1fr;
+    grid-template-columns: auto 1fr auto;
     align-items: center;
     padding: var(--spacing-lg) var(--spacing-xl);
     width: 100%;
@@ -155,7 +155,6 @@ a {
     display: flex;
     align-items: center;
     gap: var(--spacing-sm);
-    grid-column: 2;
     justify-self: center;
 }
 
@@ -186,18 +185,16 @@ a {
     box-shadow: var(--shadow-md);
 }
 
-/* Theme Switcher (3-way toggle) - Column 1 */
+/* Theme Switcher (3-way toggle) */
 .theme-switcher {
     display: flex;
     background: rgba(255, 255, 255, 0.15);
     border-radius: var(--radius-full);
     padding: 3px;
     gap: 2px;
-    grid-column: 1;
-    justify-self: start;
 }
 
-/* Nav Login Button - Column 3 */
+/* Nav Login Button */
 .nav-login {
     background: rgba(255, 255, 255, 0.95);
     color: var(--color-primary-dark);
@@ -206,7 +203,6 @@ a {
     font-weight: 600;
     font-size: var(--font-size-sm);
     transition: all var(--transition-base);
-    grid-column: 3;
     justify-self: end;
 }
 
