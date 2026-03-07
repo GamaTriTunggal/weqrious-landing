@@ -136,7 +136,7 @@
     }, observerOptions);
 
     // Observe all cards and steps
-    document.querySelectorAll('.problem-card, .solution-card, .step, .contact-card').forEach(function(el) {
+    document.querySelectorAll('.problem-card, .solution-card, .step, .contact-card, .industry-card, .pricing-card, .highlight-item').forEach(function(el) {
         el.classList.add('fade-in');
         observer.observe(el);
     });
@@ -156,4 +156,25 @@
     ';
     document.head.appendChild(style);
 
-})();
+
+    // ===================================
+    // FAQ Accordion
+    // ===================================
+    var faqItems = document.querySelectorAll('.faq-item');
+    faqItems.forEach(function(item) {
+        var question = item.querySelector('.faq-question');
+        question.addEventListener('click', function() {
+            var isActive = item.classList.contains('active');
+            
+            // Close all
+            faqItems.forEach(function(faq) {
+                faq.classList.remove('active');
+            });
+            
+            // Open clicked if it wasn't active
+            if (!isActive) {
+                item.classList.add('active');
+            }
+        });
+    });
+\n})();
