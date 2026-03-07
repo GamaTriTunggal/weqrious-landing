@@ -163,18 +163,21 @@
     var faqItems = document.querySelectorAll('.faq-item');
     faqItems.forEach(function(item) {
         var question = item.querySelector('.faq-question');
-        question.addEventListener('click', function() {
-            var isActive = item.classList.contains('active');
-            
-            // Close all
-            faqItems.forEach(function(faq) {
-                faq.classList.remove('active');
+        if (question) {
+            question.addEventListener('click', function() {
+                var isActive = item.classList.contains('active');
+
+                // Close all
+                faqItems.forEach(function(faq) {
+                    faq.classList.remove('active');
+                });
+
+                // Open clicked if it wasn't active
+                if (!isActive) {
+                    item.classList.add('active');
+                }
             });
-            
-            // Open clicked if it wasn't active
-            if (!isActive) {
-                item.classList.add('active');
-            }
-        });
+        }
     });
-\n})();
+
+})();
