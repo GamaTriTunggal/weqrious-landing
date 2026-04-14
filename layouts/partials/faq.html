@@ -1,0 +1,18 @@
+<section id="faq" class="section faq">
+    <div class="container">
+        <h2 class="section-title">{{ i18n "faq_title" }}</h2>
+        <div class="faq-list">
+            {{- range $i := seq 1 4 }}
+            <div class="faq-item">
+                <button class="faq-question">
+                    {{ i18n (printf "faq%d_q" $i) }}
+                    <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M19 9l-7 7-7-7"/></svg>
+                </button>
+                <div class="faq-answer">
+                    <p>{{ i18n (printf "faq%d_a" $i) | safeHTML }}</p>
+                </div>
+            </div>
+            {{- end }}
+        </div>
+    </div>
+</section>

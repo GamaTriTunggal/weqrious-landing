@@ -1,0 +1,197 @@
+# WeQRious — 繁體中文（台灣，正式商務語體）
+
+[meta_title]
+other = "WeQRious — 杜絕仿冒，掌握供應鏈"
+
+[meta_description]
+other = "WeQRious — 透過安全的 QR Code，阻止仿冒產品，從工廠至消費者全程追蹤您的產品。"
+
+[meta_keywords]
+other = "防偽, QR Code, 品牌保護, 通路追蹤, 產品驗證"
+
+[theme_system]
+other = "跟隨系統"
+[theme_light]
+other = "淺色"
+[theme_dark]
+other = "深色"
+
+[nav_login]
+other = "登入"
+
+[hero_title]
+other = "在仿冒造成損失之前，將它徹底阻擋。"
+[hero_subtitle]
+other = "一體化平台，將 QR Code 打造為強大的防偽盾牌、消費者互動通路與商業智慧引擎。"
+[hero_cta]
+other = "聯絡我們"
+
+[problems_title]
+other = "仿冒正在蠶食營收，被動標籤已不敷使用。"
+[problems_body1]
+other = "全球仿冒每年造成企業超過 5,000 億美元的損失，涉及營收流失、品牌受損與消費者安全風險。傳統全像標籤與靜態 QR Code 無法提供即時情報——無法告訴您仿冒品何時出現、於何處被掃描、由誰掃描。"
+[problems_body2]
+other = "更糟的是，每一次產品掃描都是一次錯失的機會。每日數以百萬計的消費者接觸您的包裝，但大多數品牌從這些瞬間獲取到的資料幾乎為零。"
+[problems_body3]
+other = "<strong>WEQRIOUS 同時改寫兩者。</strong>我們將每次掃描轉為驗證事件，將每次驗證轉為互動契機——讓保護與洞察在同一平台完成。"
+
+[hiw_title]
+other = "三步到位，全面守護。"
+[hiw_step1_title]
+other = "產生與列印"
+[hiw_step1_desc]
+other = "為每件產品或每一批次產生專屬 QR Code。於同一個後台設定驗證頁面、保固表單與行銷體驗。可下單專業印刷，或與您既有的生產線整合。"
+[hiw_step2_title]
+other = "消費者掃碼驗證"
+[hiw_step2_desc]
+other = "消費者以任意智慧型手機相機掃描 QR Code，即刻判別產品真偽——呈現您的品牌風格、產品資訊與認證徽章，無須下載任何 App。"
+[hiw_step3_title]
+other = "互動、防護、分析"
+[hiw_step3_desc]
+other = "每一次掃描將即時資料推送至您的後台：位置熱圖、仿冒警示、保固登記與行銷參與。可疑模式自動標示，協助您迅速行動。"
+
+[features_title]
+other = "一站式平台，涵蓋所有需求"
+[feat1_title]
+other = "產品驗證"
+[feat1_desc]
+other = "消費者掃碼，品牌發聲。每一個 QR Code 開啟一個完整品牌化的驗證頁——以您的色彩、標誌與語氣——讓消費者得知手中產品是否為正品。"
+[feat2_title]
+other = "仿冒偵測"
+[feat2_desc]
+other = "仿冒品不會自行現身，我們的系統卻能察覺——透過掃描行為分析、地理異常偵測與通路區域監控。損害擴散之前，您便已接獲警示。"
+[feat3_title]
+other = "行銷活動與消費者互動"
+[feat3_desc]
+other = "多數品牌在消費者購買之際便失去聯繫。使用 WEQRIOUS，每次掃描皆是推動優惠、蒐集意見與培養忠誠度的機會——讓包裝成為您最未被善用的行銷通路。"
+[feat4_title]
+other = "保固管理"
+[feat4_desc]
+other = "消費者掃碼即可登錄保固，申訴依照您設定的結構化流程運作，不再有試算表、不再遺失文件——由登錄到結案，流程簡潔俐落。"
+[feat5_title]
+other = "通路追蹤"
+[feat5_desc]
+other = "精準掌握產品身在何處——以及不該出現的地方。於通路網絡的每個層級追蹤庫存，產品一旦現身於授權範圍之外，系統即時通報。"
+[feat6_title]
+other = "分析與洞察"
+[feat6_desc]
+other = "每次掃描都是一個資料點。了解消費者所在位置、互動方式與威脅浮現之處——一切集中在同一後台，搭配即時熱圖與趨勢分析。"
+
+[industries_title]
+other = "為重視真偽的產業打造"
+[ind1_title]
+other = "菸草"
+[ind1_desc]
+other = "貨物稅合規、掃碼抽獎行銷、灰市偵測"
+[ind2_title]
+other = "製藥"
+[ind2_desc]
+other = "藥品驗證、批次召回追蹤、醫療器材保固"
+[ind3_title]
+other = "飲料"
+[ind3_desc]
+other = "會員忠誠方案、行銷互動、區域通路追蹤"
+[ind4_title]
+other = "電子產品"
+[ind4_desc]
+other = "保固登錄、仿冒偵測、售後支援"
+[ind5_title]
+other = "化妝品"
+[ind5_desc]
+other = "品牌保護、消費者互動、產品意見調查"
+[ind6_title]
+other = "時尚與服飾"
+[ind6_desc]
+other = "品牌真偽驗證、高端商品防偽、消費者信任"
+[ind7_title]
+other = "汽車零件"
+[ind7_desc]
+other = "保固申訴流程、仿冒警示、經銷商追蹤"
+[ind8_title]
+other = "塗料"
+[ind8_desc]
+other = "批次驗證、通路區域管理、經銷商推廣"
+[ind9_title]
+other = "一般製造業"
+[ind9_desc]
+other = "供應鏈可視化、防偽法規遵循、消費者分析"
+
+[highlights_title]
+other = "企業級能力，新創級簡單"
+[hl1_title]
+other = "您的品牌，位居台前"
+[hl1_desc]
+other = "消費者看到的每一個頁面，皆屬於您，而非我們。"
+[hl2_title]
+other = "數分鐘內完成上線"
+[hl2_desc]
+other = "無須建置任何基礎設施。註冊、設定、上線——您的工作區由首日起便完全獨立並受到保護。"
+[hl3_title]
+other = "專為東南亞打造"
+[hl3_desc]
+other = "從底層為 ASEAN 市場設計，內建在地法規與區域細節。"
+[hl4_title]
+other = "團隊權限，精準控管"
+[hl4_desc]
+other = "按所需授予團隊精確的權限——不多一分，不少一分。"
+[hl5_title]
+other = "直接觸及客戶"
+[hl5_desc]
+other = "不離開平台，即可與消費者建立聯繫。"
+[hl6_title]
+other = "連結您的經銷商"
+[hl6_desc]
+other = "合作夥伴擁有獨立入口管理出貨與庫存，您則保有完整可視度。"
+
+[pricing_title]
+other = "與業務共同成長的方案"
+[plan_basic_tier]
+other = "Basic"
+[plan_basic_desc]
+other = "適合剛開始導入產品驗證與掃描追蹤的品牌。"
+[plan_intermediate_tier]
+other = "Intermediate"
+[plan_intermediate_desc]
+other = "適合準備與消費者互動、打擊仿冒並管理保固的品牌。"
+[plan_pro_tier]
+other = "Pro"
+[plan_pro_desc]
+other = "適合跨區域運營並管理多層通路網絡的品牌。"
+
+[faq_title]
+other = "常見問題"
+[faq1_q]
+other = "我們能多快將 WEQRIOUS 部署至自家產品？"
+[faq1_a]
+other = "多數品牌於一週內上線。註冊、建立產品、產生 QR Code 並印製即可。無須硬體安裝或 App 開發——消費者以任何智慧型手機相機皆可掃描。"
+[faq2_q]
+other = "平台能否依照我們的品牌識別客製？"
+[faq2_a]
+other = "完全可以。每個面向消費者的頁面——驗證、保固、行銷——皆以您的標誌、色彩與影像呈現白牌化。您可以建立多個模板並安排季節性主題。"
+[faq3_q]
+other = "在沒有專用硬體的情況下，仿冒偵測如何運作？"
+[faq3_a]
+other = "WEQRIOUS 採用智慧型軟體偵測。每個 QR Code 皆為獨一且可追蹤。系統會標示異常情況——例如過量掃描、不可能的位移模式（同一 QR Code 於數分鐘內出現在相距甚遠的兩座城市），以及產品出現在授權通路之外。"
+[faq4_q]
+other = "我們的資料是否安全？"
+[faq4_a]
+other = "安全貫穿各層。我們採用以 JWT 為基礎的身份驗證並搭配 HttpOnly Cookie，資料以租戶隔離架構儲存，並提供完整稽核紀錄；基礎設施依業界最佳實務強化。您的資料絕不會於租戶之間共用。"
+
+[contact_title]
+other = "準備好保護產品並與客戶互動了嗎？"
+[contact_subtitle]
+other = "與東南亞各地信任 WEQRIOUS 的品牌共同並肩，打擊仿冒、推動消費者互動並開啟即時產品情報。"
+
+[lang_banner_prompt]
+other = "本頁面亦提供您的語言版本。"
+[lang_banner_switch]
+other = "以 {{ .Language }} 檢視"
+[lang_banner_dismiss]
+other = "關閉"
+[lang_switcher_label]
+other = "語言"
+
+[notfound_message]
+other = "很抱歉，我們找不到您正在查看的頁面。"
+[notfound_back]
+other = "返回首頁"

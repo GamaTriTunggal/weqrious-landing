@@ -1,0 +1,25 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "{{ .Site.BaseURL }}#organization",
+      "name": "{{ .Site.Params.brandName }}",
+      "legalName": "{{ .Site.Params.companyName }}",
+      "url": "{{ .Site.BaseURL }}",
+      "logo": "{{ "images/logo.png" | absURL }}",
+      "description": "{{ i18n "meta_description" }}",
+      "sameAs": []
+    },
+    {
+      "@type": "WebSite",
+      "@id": "{{ .Site.BaseURL }}#website",
+      "url": "{{ .Site.BaseURL }}",
+      "name": "{{ .Site.Params.brandName }}",
+      "inLanguage": "{{ .Site.Language.LanguageCode }}",
+      "publisher": { "@id": "{{ .Site.BaseURL }}#organization" }
+    }
+  ]
+}
+</script>

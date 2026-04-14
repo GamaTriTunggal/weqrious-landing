@@ -1,0 +1,11 @@
+{{- $currentPage := . -}}
+{{- range .Sites -}}
+  {{- with (.GetPage $currentPage.Path) -}}
+    <link rel="alternate" hreflang="{{ .Site.Language.LanguageCode }}" href="{{ .Permalink }}">
+  {{- end -}}
+{{- end -}}
+{{- with (index .Sites 0) -}}
+  {{- with (.GetPage $currentPage.Path) -}}
+    <link rel="alternate" hreflang="x-default" href="{{ .Permalink }}">
+  {{- end -}}
+{{- end -}}

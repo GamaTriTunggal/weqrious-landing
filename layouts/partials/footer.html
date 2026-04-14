@@ -1,0 +1,9 @@
+<footer class="footer">
+    <div class="container">
+        <div class="footer-brand">
+            <img src="{{ "images/logo.png" | relURL }}" alt="{{ .Site.Params.brandName }}" class="footer-logo">
+            <span>{{ .Site.Params.brandNameUpper }}</span>
+        </div>
+        <p class="footer-copyright">&copy; {{ now.Format "2006" }} {{ .Site.Params.brandName }}. {{ .Site.Params.companyName }}.</p>
+    </div>
+</footer>

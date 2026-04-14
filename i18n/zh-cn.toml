@@ -1,0 +1,197 @@
+# WeQRious — 简体中文（中国大陆，正式商务语体）
+
+[meta_title]
+other = "WeQRious — 杜绝假冒，掌控供应链"
+
+[meta_description]
+other = "WeQRious — 通过安全的二维码，阻止假冒产品，从工厂到消费者全程追踪您的产品。"
+
+[meta_keywords]
+other = "防伪, 二维码, 品牌保护, 分销追踪, 产品认证"
+
+[theme_system]
+other = "跟随系统"
+[theme_light]
+other = "浅色"
+[theme_dark]
+other = "深色"
+
+[nav_login]
+other = "登录"
+
+[hero_title]
+other = "在假冒造成损失之前，将其彻底阻断。"
+[hero_subtitle]
+other = "一体化平台，将二维码打造为强大的防伪盾牌、消费者互动渠道和商业智能引擎。"
+[hero_cta]
+other = "联系我们"
+
+[problems_title]
+other = "假冒正在侵蚀您的营收，被动式标签已无济于事。"
+[problems_body1]
+other = "全球假冒每年给企业带来超过 5000 亿美元的损失，包括营收流失、品牌受损以及消费者安全风险。传统的镭射标签和静态二维码无法提供实时情报——无法告诉您假货何时出现、在哪里被扫描，也不知道是谁扫描。"
+[problems_body2]
+other = "更糟糕的是，每一次产品扫描都是一次被浪费的机会。每天有数百万消费者接触您的产品包装，但大多数品牌从这些瞬间中获取的数据几乎为零。"
+[problems_body3]
+other = "<strong>WEQRIOUS 让一切不同。</strong>我们将每一次扫描转化为验证事件，将每一次验证转化为互动契机——让保护与洞察在同一平台中实现。"
+
+[hiw_title]
+other = "三步到位，全面守护"
+[hiw_step1_title]
+other = "生成与打印"
+[hiw_step1_desc]
+other = "为每件产品或每一批次生成专属二维码。配置验证页、保修表单与营销体验——一切尽在一个后台。下单专业印刷，或与您现有的生产线无缝对接。"
+[hiw_step2_title]
+other = "消费者扫码验证"
+[hiw_step2_desc]
+other = "消费者使用任意智能手机摄像头扫描二维码，即刻得知产品是否正品——呈现您的品牌风格、产品信息与认证徽章，无需下载任何应用。"
+[hiw_step3_title]
+other = "互动、防护、分析"
+[hiw_step3_desc]
+other = "每一次扫描都将实时数据推送至您的后台：位置热力图、假冒预警、保修登记与营销参与情况。可疑模式被自动标记，助您及时行动。"
+
+[features_title]
+other = "一站式平台，满足所有需求"
+[feat1_title]
+other = "产品认证"
+[feat1_desc]
+other = "消费者扫码，品牌发声。每一个二维码打开一个完全品牌化的验证页——以您的颜色、您的标识、您的语气——告诉消费者手中的产品是否为正品。"
+[feat2_title]
+other = "假冒侦测"
+[feat2_desc]
+other = "假货不会自曝。但我们的系统能发现它们——通过扫描模式分析、地理异常检测和分销区域监控。在损害蔓延之前，您就能收到警报。"
+[feat3_title]
+other = "营销活动与消费者互动"
+[feat3_desc]
+other = "大多数品牌在消费者购买瞬间就失去了联系。借助 WEQRIOUS，每一次扫描都是开展促销、收集反馈、建立忠诚度的机会——让包装成为您最未充分利用的营销渠道。"
+[feat4_title]
+other = "保修管理"
+[feat4_desc]
+other = "消费者扫码注册保修，理赔按照您设定的结构化流程进行。不再有表格，不再有丢失的文件——从注册到处理，流程干净利落。"
+[feat5_title]
+other = "分销追踪"
+[feat5_desc]
+other = "精确掌握产品所在位置——以及不该出现的位置。在分销网络的每一层追踪库存，产品出现在授权区域之外时系统自动告警。"
+[feat6_title]
+other = "分析与洞察"
+[feat6_desc]
+other = "每一次扫描都是一个数据点。了解消费者所在位置、互动方式以及威胁浮现之处——所有信息集中在一个后台，配有实时热力图与趋势分析。"
+
+[industries_title]
+other = "为重视真伪的行业打造"
+[ind1_title]
+other = "烟草"
+[ind1_desc]
+other = "消费税合规、扫码赢好礼营销、灰色市场侦测"
+[ind2_title]
+other = "医药"
+[ind2_desc]
+other = "药品认证、批次召回追溯、医疗器械保修"
+[ind3_title]
+other = "饮料"
+[ind3_desc]
+other = "会员忠诚度项目、营销互动、区域分销追踪"
+[ind4_title]
+other = "电子产品"
+[ind4_desc]
+other = "保修注册、假冒侦测、售后支持"
+[ind5_title]
+other = "化妆品"
+[ind5_desc]
+other = "品牌保护、消费者互动、产品反馈调研"
+[ind6_title]
+other = "时尚与服装"
+[ind6_desc]
+other = "品牌真伪验证、高端商品防伪、消费者信任"
+[ind7_title]
+other = "汽车零部件"
+[ind7_desc]
+other = "保修理赔流程、假冒预警、经销商追踪"
+[ind8_title]
+other = "油漆与涂料"
+[ind8_desc]
+other = "批次验证、分销区域管控、经销商促销"
+[ind9_title]
+other = "通用制造业"
+[ind9_desc]
+other = "供应链可见性、防伪合规、消费者分析"
+
+[highlights_title]
+other = "企业级能力，初创级简单"
+[hl1_title]
+other = "您的品牌，永居主舞台"
+[hl1_desc]
+other = "消费者看到的每一个页面，都像是您的，而非我们的。"
+[hl2_title]
+other = "几分钟即可上线"
+[hl2_desc]
+other = "无需部署任何基础设施。注册、配置、上线——您的工作空间从第一天起便完全隔离、安全可靠。"
+[hl3_title]
+other = "专为东南亚打造"
+[hl3_desc]
+other = "从底层起便为 ASEAN 市场设计，内置本地合规规则与区域化细节。"
+[hl4_title]
+other = "团队权限，精细可控"
+[hl4_desc]
+other = "按照所需精准授权给您的团队——不多一分，不少一分。"
+[hl5_title]
+other = "直达消费者"
+[hl5_desc]
+other = "无需离开平台即可触达消费者。"
+[hl6_title]
+other = "连接您的经销商"
+[hl6_desc]
+other = "合作伙伴拥有专属门户管理发货与库存，您则保有全局可见性。"
+
+[pricing_title]
+other = "与业务共同成长的方案"
+[plan_basic_tier]
+other = "Basic"
+[plan_basic_desc]
+other = "适合刚刚起步、希望开展产品认证与扫码追踪的品牌。"
+[plan_intermediate_tier]
+other = "Intermediate"
+[plan_intermediate_desc]
+other = "适合希望与消费者互动、打击假冒并管理保修的品牌。"
+[plan_pro_tier]
+other = "Pro"
+[plan_pro_desc]
+other = "适合跨区域运营、管理多层分销网络的品牌。"
+
+[faq_title]
+other = "常见问题"
+[faq1_q]
+other = "我们能多快将 WEQRIOUS 部署到自己的产品上？"
+[faq1_a]
+other = "大多数品牌在一周内上线。注册账号、创建产品、生成二维码、打印即可。无需安装硬件或开发应用——消费者使用任意智能手机摄像头即可扫描。"
+[faq2_q]
+other = "平台能否按我们的品牌识别进行定制？"
+[faq2_a]
+other = "完全可以。每一个面向消费者的页面——验证、保修、营销——都以您的 Logo、颜色和图像进行白标。您可以创建多个模板并安排季节性主题。"
+[faq3_q]
+other = "不依赖专用硬件，假冒侦测如何实现？"
+[faq3_a]
+other = "WEQRIOUS 采用智能软件检测机制。每个二维码都是唯一且可被追踪的。系统会标记异常情况——例如过量扫描、同一二维码在几分钟内出现在相距甚远的两座城市（不可能的位移模式），以及产品出现在授权分销区域之外。"
+[faq4_q]
+other = "我们的数据是否安全？"
+[faq4_a]
+other = "安全贯穿每一层级。我们采用基于 JWT 的身份验证，并使用 HttpOnly Cookie；数据以租户隔离架构存储，提供完整审计日志；基础设施按照行业最佳实践加固。您的数据从不会在租户之间共享。"
+
+[contact_title]
+other = "准备好保护产品、吸引客户了吗？"
+[contact_subtitle]
+other = "加入东南亚各地信赖 WEQRIOUS 的品牌，共同打击假冒、推动消费者互动、开启实时产品情报。"
+
+[lang_banner_prompt]
+other = "此页面也提供您所在语言的版本。"
+[lang_banner_switch]
+other = "以 {{ .Language }} 查看"
+[lang_banner_dismiss]
+other = "关闭"
+[lang_switcher_label]
+other = "语言"
+
+[notfound_message]
+other = "抱歉，未找到您所访问的页面。"
+[notfound_back]
+other = "返回首页"
