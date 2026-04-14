@@ -1,0 +1,197 @@
+# WeQRious — Bahasa Melayu (formal, untuk Malaysia & Brunei)
+
+[meta_title]
+other = "WeQRious — Hentikan Pemalsuan. Kuasai Rantaian Bekalan Anda."
+
+[meta_description]
+other = "WeQRious — Halang pemalsuan dan jejaki produk anda dari kilang hingga ke pengguna dengan kod QR yang selamat."
+
+[meta_keywords]
+other = "anti pemalsuan, kod QR, perlindungan jenama, penjejakan pengedaran, pengesahan produk"
+
+[theme_system]
+other = "Sistem"
+[theme_light]
+other = "Cerah"
+[theme_dark]
+other = "Gelap"
+
+[nav_login]
+other = "Log Masuk"
+
+[hero_title]
+other = "Hentikan Pemalsuan Sebelum Ia Merugikan Anda."
+[hero_subtitle]
+other = "Platform bersepadu yang mengubah kod QR menjadi perisai anti-pemalsuan yang berkesan, saluran penglibatan pengguna, serta enjin perisikan perniagaan."
+[hero_cta]
+other = "Hubungi Kami"
+
+[problems_title]
+other = "Pemalsuan Merosakkan Pendapatan. Label Pasif Tidak Mencukupi."
+[problems_body1]
+other = "Pemalsuan global mengakibatkan kerugian melebihi $500 bilion setahun dari segi pendapatan yang hilang, kerosakan jenama, dan risiko keselamatan pengguna. Pelekat hologram tradisional dan kod QR statik tidak memberikan perisikan masa nyata — tiada maklumat bila tiruan muncul, di mana ia diimbas, atau siapa yang mengimbasnya."
+[problems_body2]
+other = "Lebih teruk lagi, setiap imbasan produk adalah peluang yang terlepas. Jutaan pengguna berinteraksi dengan pembungkusan anda setiap hari, namun kebanyakan jenama tidak mengumpul sebarang data daripada momen tersebut."
+[problems_body3]
+other = "<strong>WEQRIOUS mengubah kedua-duanya.</strong> Kami menjadikan setiap imbasan sebagai peristiwa pengesahan, dan setiap pengesahan sebagai peluang penglibatan — memberikan anda perlindungan dan wawasan dalam satu platform."
+
+[hiw_title]
+other = "Tiga Langkah. Perlindungan Menyeluruh."
+[hiw_step1_title]
+other = "Jana & Cetak"
+[hiw_step1_desc]
+other = "Jana kod QR unik untuk setiap unit atau kelompok produk. Konfigurasikan halaman pengesahan, borang waranti, dan pengalaman kempen — semuanya dari satu papan pemuka. Tempah percetakan profesional atau integrasikan dengan barisan pengeluaran sedia ada anda."
+[hiw_step2_title]
+other = "Pengguna Mengimbas untuk Mengesahkan"
+[hiw_step2_desc]
+other = "Pelanggan mengimbas kod QR dengan kamera telefon pintar. Serta-merta, mereka mengetahui sama ada produk itu tulen — lengkap dengan jenama, butiran produk, dan lencana pensijilan anda. Tidak memerlukan muat turun aplikasi."
+[hiw_step3_title]
+other = "Libatkan, Lindungi, Analisa"
+[hiw_step3_desc]
+other = "Setiap imbasan mengalirkan data masa nyata ke papan pemuka anda: peta haba lokasi, amaran pemalsuan, pendaftaran waranti, dan penyertaan kempen. Corak mencurigakan ditandakan secara automatik supaya anda boleh bertindak pantas."
+
+[features_title]
+other = "Segala Keperluan Anda dalam Satu Platform"
+[feat1_title]
+other = "Pengesahan Produk"
+[feat1_desc]
+other = "Pelanggan anda mengimbas. Jenama anda bersuara. Setiap kod QR membuka halaman pengesahan berjenama sepenuhnya — dengan warna, logo, dan gaya suara anda — yang memberitahu pengguna sama ada produk di tangan mereka tulen."
+[feat2_title]
+other = "Pengesanan Pemalsuan"
+[feat2_desc]
+other = "Barang tiruan tidak akan mengumumkan dirinya. Sistem kami tetap mengesannya — melalui analisis corak imbasan, pengesanan anomali geografi, dan pemantauan zon pengedaran. Anda menerima amaran sebelum kerosakan merebak."
+[feat3_title]
+other = "Kempen & Penglibatan Pengguna"
+[feat3_desc]
+other = "Kebanyakan jenama kehilangan pelanggan sebaik sahaja pembelian selesai. Dengan WEQRIOUS, setiap imbasan adalah peluang untuk menjalankan promosi, mengumpul maklum balas, dan membina kesetiaan — menjadikan pembungkusan sebagai saluran pemasaran yang paling kurang digunakan."
+[feat4_title]
+other = "Pengurusan Waranti"
+[feat4_desc]
+other = "Pengguna mendaftar waranti dengan mengimbas. Tuntutan mengalir menerusi aliran kerja berstruktur yang dikawal oleh pasukan anda. Tiada lagi hamparan, tiada lagi dokumen hilang — hanya proses bersih dari pendaftaran hingga penyelesaian."
+[feat5_title]
+other = "Penjejakan Pengedaran"
+[feat5_desc]
+other = "Ketahui dengan tepat di mana produk anda berada — dan di mana ia tidak sepatutnya berada. Jejaki inventori di setiap peringkat rangkaian pengedaran, dan terima amaran apabila produk muncul di luar wilayah yang dibenarkan."
+[feat6_title]
+other = "Analitik & Wawasan"
+[feat6_desc]
+other = "Setiap imbasan adalah titik data. Lihat di mana pengguna anda berada, bagaimana mereka terlibat, dan di mana ancaman muncul — semuanya dalam satu papan pemuka dengan peta haba masa nyata dan analisis trend."
+
+[industries_title]
+other = "Dibina untuk Industri yang Menitikberatkan Ketulenan"
+[ind1_title]
+other = "Tembakau"
+[ind1_desc]
+other = "Pematuhan cukai eksais, promosi imbas-dan-menang, pengesanan pasaran gelap"
+[ind2_title]
+other = "Farmaseutikal"
+[ind2_desc]
+other = "Pengesahan ubat, penjejakan panggil-balik kelompok, waranti peranti perubatan"
+[ind3_title]
+other = "Minuman"
+[ind3_desc]
+other = "Program kesetiaan, penglibatan kempen, penjejakan pengedaran serantau"
+[ind4_title]
+other = "Elektronik"
+[ind4_desc]
+other = "Pendaftaran waranti, pengesanan pemalsuan, sokongan selepas jualan"
+[ind5_title]
+other = "Kosmetik"
+[ind5_desc]
+other = "Perlindungan jenama, penglibatan pengguna, tinjauan maklum balas produk"
+[ind6_title]
+other = "Fesyen & Pakaian"
+[ind6_desc]
+other = "Pengesahan ketulenan jenama, anti-pemalsuan untuk barangan premium, kepercayaan pengguna"
+[ind7_title]
+other = "Alat Ganti Automotif"
+[ind7_desc]
+other = "Aliran kerja tuntutan waranti, amaran pemalsuan, penjejakan pengedar"
+[ind8_title]
+other = "Cat & Salutan"
+[ind8_desc]
+other = "Pengesahan kelompok, penguatkuasaan zon pengedaran, promosi perdagangan"
+[ind9_title]
+other = "Pembuatan Umum"
+[ind9_desc]
+other = "Keterlihatan rantaian bekalan, pematuhan anti-pemalsuan, analitik pengguna"
+
+[highlights_title]
+other = "Bertaraf Enterprise. Semudah Startup."
+[hl1_title]
+other = "Jenama Anda, di Barisan Hadapan"
+[hl1_desc]
+other = "Setiap halaman yang dilihat pelanggan anda kelihatan seperti milik anda, bukan kami."
+[hl2_title]
+other = "Sedia dalam Beberapa Minit"
+[hl2_desc]
+other = "Tiada infrastruktur untuk disediakan. Daftar, konfigurasikan, dan siarkan — ruang kerja anda diasingkan sepenuhnya dan selamat dari hari pertama."
+[hl3_title]
+other = "Direka untuk Asia Tenggara"
+[hl3_desc]
+other = "Dibangunkan dari asas untuk pasaran ASEAN, dengan pematuhan tempatan dan nuansa serantau terbina sebati."
+[hl4_title]
+other = "Akses Pasukan, Terkawal"
+[hl4_desc]
+other = "Beri pasukan anda akses yang tepat seperti yang diperlukan — tidak lebih, tidak kurang."
+[hl5_title]
+other = "Capai Pelanggan Secara Langsung"
+[hl5_desc]
+other = "Hubungkan dengan pengguna tanpa meninggalkan platform."
+[hl6_title]
+other = "Pengedar Anda, Terhubung"
+[hl6_desc]
+other = "Rakan kongsi mendapat portal sendiri untuk mengurus penghantaran dan inventori, sementara anda mengekalkan keterlihatan penuh."
+
+[pricing_title]
+other = "Pelan yang Berkembang Bersama Perniagaan Anda"
+[plan_basic_tier]
+other = "Basic"
+[plan_basic_desc]
+other = "Untuk jenama yang memulakan dengan pengesahan produk dan penjejakan imbasan."
+[plan_intermediate_tier]
+other = "Intermediate"
+[plan_intermediate_desc]
+other = "Untuk jenama yang bersedia melibatkan pengguna, memerangi pemalsuan, dan menguruskan waranti."
+[plan_pro_tier]
+other = "Pro"
+[plan_pro_desc]
+other = "Untuk jenama yang beroperasi merentas wilayah dan rangkaian pengedaran."
+
+[faq_title]
+other = "Soalan Lazim"
+[faq1_q]
+other = "Berapa pantas kami boleh melaksanakan WEQRIOUS untuk produk kami?"
+[faq1_a]
+other = "Kebanyakan jenama siap diguna pakai dalam tempoh seminggu. Daftar, cipta produk anda, jana kod QR, dan cetak. Tiada pemasangan perkakasan atau pembangunan aplikasi diperlukan — pengguna mengimbas dengan mana-mana kamera telefon pintar."
+[faq2_q]
+other = "Adakah platform ini boleh disuaikan dengan identiti jenama kami?"
+[faq2_a]
+other = "Sepenuhnya. Setiap halaman yang menghadap pengguna — pengesahan, waranti, kempen — berlabel putih dengan logo, warna, dan imej anda. Anda boleh mencipta berbilang templat dan menjadualkan tema bermusim."
+[faq3_q]
+other = "Bagaimana pengesanan pemalsuan berfungsi tanpa perkakasan khusus?"
+[faq3_a]
+other = "WEQRIOUS menggunakan pengesanan pintar berasaskan perisian. Setiap kod QR adalah unik dan dijejak. Sistem menandakan anomali seperti imbasan berlebihan, corak perjalanan mustahil (kod yang sama diimbas di dua bandar berjauhan dalam beberapa minit), dan produk yang muncul di luar zon pengedaran yang dibenarkan."
+[faq4_q]
+other = "Adakah data kami selamat?"
+[faq4_a]
+other = "Keselamatan dibina pada setiap lapisan. Kami menggunakan pengesahan berasaskan JWT dengan kuki HttpOnly, seni bina data berasingan mengikut tenant, pencatatan audit sepenuhnya, dan infrastruktur yang diperkukuh mengikut amalan terbaik industri. Data anda tidak pernah dikongsi antara tenant."
+
+[contact_title]
+other = "Sedia Melindungi Produk dan Melibatkan Pelanggan Anda?"
+[contact_subtitle]
+other = "Sertai jenama-jenama di seluruh Asia Tenggara yang mempercayai WEQRIOUS untuk memerangi pemalsuan, memacu penglibatan pengguna, dan membuka perisikan produk masa nyata."
+
+[lang_banner_prompt]
+other = "Halaman ini juga tersedia dalam bahasa anda."
+[lang_banner_switch]
+other = "Lihat dalam {{ .Language }}"
+[lang_banner_dismiss]
+other = "Tutup"
+[lang_switcher_label]
+other = "Bahasa"
+
+[notfound_message]
+other = "Maaf, halaman yang anda cari tidak dapat ditemui."
+[notfound_back]
+other = "Kembali ke Laman Utama"

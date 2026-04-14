@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.LanguageCode | default .Site.Language.Lang }}">
+{{ partial "head.html" . }}
+<body data-lang="{{ .Site.Language.Lang }}">
+    {{ partial "lang-banner.html" . }}
+    {{ block "main" . }}{{ end }}
+    <script src="{{ "js/main.js" | relURL }}"></script>
+</body>
+</html>

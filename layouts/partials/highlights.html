@@ -1,0 +1,22 @@
+<section id="highlights" class="section preview">
+    <div class="container">
+        <h2 class="section-title">{{ i18n "highlights_title" }}</h2>
+        <div class="preview-layout" style="display: flex; flex-wrap: wrap; gap: var(--spacing-2xl); align-items: center; margin-top: var(--spacing-xl);">
+            <div class="preview-placeholder" style="flex: 1; min-width: 300px;">
+                <img src="{{ "images/dashboard-preview.png" | relURL }}" alt="{{ .Site.Params.brandNameUpper }} Dashboard Preview" style="width: 100%; height: auto; border-radius: var(--radius-xl); box-shadow: var(--shadow-xl); border: 1px solid var(--color-border);">
+            </div>
+
+            <div class="highlights-list" style="flex: 1; min-width: 300px;">
+                {{- range $i := seq 1 6 }}
+                <div class="highlight-item">
+                    <svg class="highlight-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 13l4 4L19 7"/></svg>
+                    <div class="highlight-text">
+                        <h3>{{ i18n (printf "hl%d_title" $i) }}</h3>
+                        <p>{{ i18n (printf "hl%d_desc" $i) | safeHTML }}</p>
+                    </div>
+                </div>
+                {{- end }}
+            </div>
+        </div>
+    </div>
+</section>

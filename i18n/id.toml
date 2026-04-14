@@ -1,0 +1,197 @@
+# WeQRious — Bahasa Indonesia (formal / baku)
+
+[meta_title]
+other = "WeQRious — Hentikan Pemalsuan. Kendalikan Rantai Pasok Anda."
+
+[meta_description]
+other = "WeQRious — Cegah pemalsuan dan lacak produk Anda dari pabrik hingga konsumen dengan kode QR yang aman."
+
+[meta_keywords]
+other = "anti pemalsuan, kode QR, perlindungan merek, pelacakan distribusi, otentikasi produk"
+
+[theme_system]
+other = "Sistem"
+[theme_light]
+other = "Terang"
+[theme_dark]
+other = "Gelap"
+
+[nav_login]
+other = "Masuk"
+
+[hero_title]
+other = "Hentikan Pemalsuan Sebelum Merugikan Anda."
+[hero_subtitle]
+other = "Platform terpadu yang mengubah kode QR menjadi perisai anti-pemalsuan yang kuat, kanal keterlibatan konsumen, dan mesin intelijen bisnis."
+[hero_cta]
+other = "Hubungi Kami"
+
+[problems_title]
+other = "Pemalsuan Menghancurkan Pendapatan. Label Pasif Tidak Cukup."
+[problems_body1]
+other = "Pemalsuan global merugikan perusahaan lebih dari $500 miliar setiap tahun dalam bentuk kehilangan pendapatan, kerusakan reputasi merek, dan risiko keselamatan konsumen. Stiker hologram tradisional dan kode QR statis tidak memberikan intelijen real-time — tidak ada informasi kapan barang palsu muncul, di mana dipindai, atau siapa yang memindai."
+[problems_body2]
+other = "Lebih buruk lagi, setiap pemindaian produk adalah peluang yang terlewat. Jutaan konsumen berinteraksi dengan kemasan Anda setiap hari, namun sebagian besar merek tidak memperoleh data dari momen-momen tersebut."
+[problems_body3]
+other = "<strong>WEQRIOUS mengubah keduanya.</strong> Kami mengubah setiap pemindaian menjadi peristiwa verifikasi, dan setiap verifikasi menjadi peluang keterlibatan — memberikan Anda perlindungan dan wawasan dalam satu platform."
+
+[hiw_title]
+other = "Tiga Langkah. Perlindungan Menyeluruh."
+[hiw_step1_title]
+other = "Hasilkan & Cetak"
+[hiw_step1_desc]
+other = "Buat kode QR unik untuk setiap unit atau batch produk. Konfigurasikan halaman validasi, formulir garansi, dan pengalaman kampanye — semua dari satu dasbor. Pesan pencetakan profesional atau integrasikan dengan lini produksi yang telah Anda miliki."
+[hiw_step2_title]
+other = "Konsumen Memindai untuk Verifikasi"
+[hiw_step2_desc]
+other = "Pelanggan memindai kode QR dengan kamera ponsel. Seketika, mereka mengetahui apakah produk tersebut asli — lengkap dengan branding, detail produk, dan lencana sertifikasi Anda. Tidak memerlukan unduhan aplikasi."
+[hiw_step3_title]
+other = "Terlibat, Lindungi, Analisis"
+[hiw_step3_desc]
+other = "Setiap pemindaian mengalirkan data real-time ke dasbor Anda: heatmap lokasi, peringatan pemalsuan, pendaftaran garansi, dan partisipasi kampanye. Pola mencurigakan ditandai secara otomatis agar Anda dapat bertindak cepat."
+
+[features_title]
+other = "Semua yang Anda Perlukan dalam Satu Platform"
+[feat1_title]
+other = "Otentikasi Produk"
+[feat1_desc]
+other = "Pelanggan Anda memindai. Merek Anda berbicara. Setiap kode QR membuka halaman verifikasi yang sepenuhnya sesuai branding Anda — dengan warna, logo, dan tonasi Anda — dan memberi tahu konsumen apakah produk yang mereka pegang benar-benar asli."
+[feat2_title]
+other = "Deteksi Pemalsuan"
+[feat2_desc]
+other = "Barang palsu tidak memperkenalkan diri. Sistem kami tetap menemukannya — melalui analisis pola pemindaian, deteksi anomali geografis, dan pemantauan zona distribusi. Anda memperoleh peringatan sebelum kerugian menyebar."
+[feat3_title]
+other = "Kampanye & Keterlibatan Konsumen"
+[feat3_desc]
+other = "Sebagian besar merek kehilangan pelanggannya sesaat setelah pembelian. Dengan WEQRIOUS, setiap pemindaian adalah kesempatan untuk menjalankan promosi, mengumpulkan umpan balik, dan membangun loyalitas — menjadikan kemasan sebagai kanal pemasaran yang paling kurang dimanfaatkan."
+[feat4_title]
+other = "Manajemen Garansi"
+[feat4_desc]
+other = "Konsumen mendaftarkan garansi dengan memindai. Klaim mengalir melalui alur kerja terstruktur yang dikendalikan tim Anda. Tidak lagi spreadsheet, tidak lagi dokumen hilang — proses bersih dari pendaftaran hingga penyelesaian."
+[feat5_title]
+other = "Pelacakan Distribusi"
+[feat5_desc]
+other = "Ketahui persis di mana produk Anda berada — dan di mana seharusnya tidak berada. Lacak inventaris di setiap tingkatan jaringan distribusi, dan dapatkan peringatan ketika produk muncul di luar wilayah yang diizinkan."
+[feat6_title]
+other = "Analitik & Wawasan"
+[feat6_desc]
+other = "Setiap pemindaian adalah titik data. Lihat di mana konsumen Anda berada, bagaimana mereka berinteraksi, dan di mana ancaman muncul — semua dalam satu dasbor dengan heatmap real-time dan analisis tren."
+
+[industries_title]
+other = "Dibangun untuk Industri di Mana Keaslian Berarti"
+[ind1_title]
+other = "Tembakau"
+[ind1_desc]
+other = "Kepatuhan cukai, promosi pindai-menang, deteksi pasar gelap"
+[ind2_title]
+other = "Farmasi"
+[ind2_desc]
+other = "Otentikasi obat, pelacakan recall batch, garansi untuk alat medis"
+[ind3_title]
+other = "Minuman"
+[ind3_desc]
+other = "Program loyalitas, keterlibatan kampanye, pelacakan distribusi regional"
+[ind4_title]
+other = "Elektronik"
+[ind4_desc]
+other = "Pendaftaran garansi, deteksi pemalsuan, dukungan purnajual"
+[ind5_title]
+other = "Kosmetik"
+[ind5_desc]
+other = "Perlindungan merek, keterlibatan konsumen, survei umpan balik produk"
+[ind6_title]
+other = "Fesyen & Pakaian"
+[ind6_desc]
+other = "Verifikasi keaslian merek, anti-pemalsuan untuk produk premium, kepercayaan konsumen"
+[ind7_title]
+other = "Suku Cadang Otomotif"
+[ind7_desc]
+other = "Alur kerja klaim garansi, peringatan pemalsuan, pelacakan distributor"
+[ind8_title]
+other = "Cat & Pelapis"
+[ind8_desc]
+other = "Verifikasi batch, penegakan zona distribusi, promosi dagang"
+[ind9_title]
+other = "Manufaktur Umum"
+[ind9_desc]
+other = "Visibilitas rantai pasok, kepatuhan anti-pemalsuan, analitik konsumen"
+
+[highlights_title]
+other = "Kelas Enterprise. Sederhana ala Startup."
+[hl1_title]
+other = "Merek Anda, di Garis Depan"
+[hl1_desc]
+other = "Setiap halaman yang dilihat pelanggan Anda tampil sebagai milik Anda, bukan kami."
+[hl2_title]
+other = "Siap dalam Hitungan Menit"
+[hl2_desc]
+other = "Tanpa infrastruktur yang perlu disiapkan. Daftar, konfigurasi, dan tayang — ruang kerja Anda terisolasi sepenuhnya dan aman sejak hari pertama."
+[hl3_title]
+other = "Dirancang untuk Asia Tenggara"
+[hl3_desc]
+other = "Dibangun dari dasar untuk pasar ASEAN, dengan kepatuhan lokal dan nuansa regional yang terpadu."
+[hl4_title]
+other = "Akses Tim, Terkendali"
+[hl4_desc]
+other = "Berikan tim Anda akses yang tepat — tidak lebih, tidak kurang."
+[hl5_title]
+other = "Jangkau Pelanggan Secara Langsung"
+[hl5_desc]
+other = "Terhubung dengan konsumen tanpa meninggalkan platform."
+[hl6_title]
+other = "Distributor Anda, Terhubung"
+[hl6_desc]
+other = "Mitra memperoleh portal sendiri untuk mengelola pengiriman dan inventaris, sementara Anda mempertahankan visibilitas penuh."
+
+[pricing_title]
+other = "Paket yang Tumbuh Bersama Bisnis Anda"
+[plan_basic_tier]
+other = "Basic"
+[plan_basic_desc]
+other = "Untuk merek yang memulai dengan otentikasi produk dan pelacakan pemindaian."
+[plan_intermediate_tier]
+other = "Intermediate"
+[plan_intermediate_desc]
+other = "Untuk merek yang siap melibatkan konsumen, melawan pemalsuan, dan mengelola garansi."
+[plan_pro_tier]
+other = "Pro"
+[plan_pro_desc]
+other = "Untuk merek yang beroperasi lintas wilayah dan jaringan distribusi."
+
+[faq_title]
+other = "Pertanyaan yang Sering Diajukan"
+[faq1_q]
+other = "Seberapa cepat kami dapat menerapkan WEQRIOUS untuk produk kami?"
+[faq1_a]
+other = "Sebagian besar merek tayang dalam waktu satu minggu. Daftar, buat produk Anda, hasilkan kode QR, dan cetak. Tidak memerlukan pemasangan perangkat keras atau pengembangan aplikasi — konsumen memindai dengan kamera ponsel apa pun."
+[faq2_q]
+other = "Apakah platform ini dapat dikustomisasi sesuai identitas merek kami?"
+[faq2_a]
+other = "Sepenuhnya. Setiap halaman yang dihadap konsumen — validasi, garansi, kampanye — ditampilkan dengan label putih menggunakan logo, warna, dan visual Anda. Anda dapat membuat banyak template dan menjadwalkan tema musiman."
+[faq3_q]
+other = "Bagaimana deteksi pemalsuan bekerja tanpa perangkat keras khusus?"
+[faq3_a]
+other = "WEQRIOUS menggunakan deteksi cerdas berbasis perangkat lunak. Setiap kode QR unik dan dilacak. Sistem menandai anomali seperti pemindaian berlebih, pola perjalanan mustahil (kode yang sama dipindai di dua kota yang berjauhan dalam hitungan menit), dan produk yang muncul di luar zona distribusi resmi."
+[faq4_q]
+other = "Apakah data kami aman?"
+[faq4_a]
+other = "Keamanan dibangun di setiap lapisan. Kami menggunakan otentikasi berbasis JWT dengan cookie HttpOnly, arsitektur data dengan isolasi antar tenant, pencatatan audit lengkap, dan infrastruktur yang diperketat mengikuti praktik terbaik industri. Data Anda tidak pernah dibagikan antar tenant."
+
+[contact_title]
+other = "Siap Melindungi Produk dan Melibatkan Pelanggan Anda?"
+[contact_subtitle]
+other = "Bergabunglah dengan merek-merek di seluruh Asia Tenggara yang mempercayai WEQRIOUS untuk memerangi pemalsuan, mendorong keterlibatan konsumen, dan membuka intelijen produk secara real-time."
+
+[lang_banner_prompt]
+other = "Halaman ini juga tersedia dalam bahasa Anda."
+[lang_banner_switch]
+other = "Lihat dalam {{ .Language }}"
+[lang_banner_dismiss]
+other = "Tutup"
+[lang_switcher_label]
+other = "Bahasa"
+
+[notfound_message]
+other = "Maaf, halaman yang Anda cari tidak dapat ditemukan."
+[notfound_back]
+other = "Kembali ke Beranda"

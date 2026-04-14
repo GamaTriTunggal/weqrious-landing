@@ -1,0 +1,13 @@
+<header class="hero">
+    {{ partial "nav.html" . }}
+    <div class="hero-content">
+        <img src="{{ "images/logo-qr.svg" | relURL }}" alt="{{ .Site.Params.brandName }} QR Logo" class="hero-logo">
+        <h1 class="hero-title">{{ i18n "hero_title" }}</h1>
+        <p class="hero-subtitle">{{ i18n "hero_subtitle" }}</p>
+        <a href="#contact" class="hero-cta">{{ i18n "hero_cta" }}</a>
+
+        <div class="hero-image-wrapper" style="margin-top: var(--spacing-3xl); max-width: 800px; width: 100%;">
+            <img src="{{ "images/hero-illustration.png" | relURL }}" alt="{{ .Site.Params.brandNameUpper }} Platform Illustration" style="width: 100%; height: auto; border-radius: var(--radius-xl); box-shadow: var(--shadow-xl);">
+        </div>
+    </div>
+</header>

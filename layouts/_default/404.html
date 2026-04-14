@@ -1,0 +1,11 @@
+{{ define "main" }}
+<section class="section contact" style="min-height: 70vh; display: flex; align-items: center;">
+    <div class="container text-center">
+        <h1 class="section-title" style="font-size: var(--font-size-5xl);">404</h1>
+        <p class="section-subtitle">{{ i18n "notfound_message" }}</p>
+        <div style="margin-top: var(--spacing-xl);">
+            <a href="{{ .Site.BaseURL }}" class="hero-cta">{{ i18n "notfound_back" }}</a>
+        </div>
+    </div>
+</section>
+{{ end }}

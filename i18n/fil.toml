@@ -1,0 +1,198 @@
+# WeQRious — Tagalog / Filipino (pormal na rehistro, business)
+# NOTE: AI translation; irekomenda ang review ng native speaker bago i-launch sa production.
+
+[meta_title]
+other = "WeQRious — Pigilan ang Peke. Pamahalaan ang Iyong Supply Chain."
+
+[meta_description]
+other = "WeQRious — Pigilan ang mga pekeng produkto at subaybayan ang iyong mga produkto mula sa pabrika hanggang sa konsyumer gamit ang secure na QR codes."
+
+[meta_keywords]
+other = "anti-counterfeit, QR code, proteksyon ng tatak, pagsubaybay ng distribusyon, authentikasyon ng produkto, laban sa peke"
+
+[theme_system]
+other = "System"
+[theme_light]
+other = "Light"
+[theme_dark]
+other = "Dark"
+
+[nav_login]
+other = "Mag-login"
+
+[hero_title]
+other = "Pigilan ang Peke Bago Ka Nito Malugi."
+[hero_subtitle]
+other = "Ang all-in-one na platform na nagbabago ng QR codes sa isang makapangyarihang anti-counterfeit shield, channel para sa consumer engagement, at business intelligence engine."
+[hero_cta]
+other = "Makipag-ugnayan"
+
+[problems_title]
+other = "Nakakasira ng Kita ang Peke. Hindi Sapat ang Passive Labels."
+[problems_body1]
+other = "Ang pandaigdigang pagpepeke ay nagdudulot ng mahigit sa $500 bilyong pagkalugi bawat taon sa anyo ng nawawalang kita, pinsala sa tatak, at panganib sa kaligtasan ng konsyumer. Ang tradisyunal na hologram stickers at static QR codes ay hindi nagbibigay ng real-time na intelligence — walang impormasyon kung kailan lumitaw ang peke, saan ito na-scan, o sino ang nag-scan."
+[problems_body2]
+other = "Mas malala pa, ang bawat scan ng produkto ay isang napalampas na pagkakataon. Milyun-milyong konsyumer ang nakikipag-ugnayan sa inyong packaging araw-araw, ngunit karamihan sa mga tatak ay hindi nakakakalap ng anumang data mula sa mga sandaling iyon."
+[problems_body3]
+other = "<strong>Binabago ng WEQRIOUS ang pareho.</strong> Ginagawa naming verification event ang bawat scan, at engagement opportunity ang bawat verification — nagbibigay ng proteksyon at insight sa iisang platform."
+
+[hiw_title]
+other = "Tatlong Hakbang. Kumpletong Proteksyon."
+[hiw_step1_title]
+other = "Gumawa at Mag-print"
+[hiw_step1_desc]
+other = "Lumikha ng natatanging QR codes para sa bawat product unit o batch. I-configure ang validation pages, warranty forms, at campaign experiences — lahat mula sa isang dashboard. Umorder ng propesyonal na printing o i-integrate sa inyong kasalukuyang production line."
+[hiw_step2_title]
+other = "Nag-scan ang Konsyumer para Mag-verify"
+[hiw_step2_desc]
+other = "Nag-scan ang customer ng QR code gamit ang smartphone camera. Kaagad, makikita nila kung tunay ang produkto — kumpleto ang inyong branding, detalye ng produkto, at certification badges. Walang kailangang i-download na app."
+[hiw_step3_title]
+other = "Makiugnay, Magprotekta, Mag-analisa"
+[hiw_step3_desc]
+other = "Ang bawat scan ay nagpapadala ng real-time data sa inyong dashboard: location heatmaps, counterfeit alerts, warranty registrations, at campaign participation. Ang mga kahinahinalang pattern ay awtomatikong na-flag upang makapagkilos kayo nang mabilis."
+
+[features_title]
+other = "Lahat ng Kailangan Ninyo sa Isang Platform"
+[feat1_title]
+other = "Authentikasyon ng Produkto"
+[feat1_desc]
+other = "Nag-scan ang inyong customer. Nagsasalita ang inyong tatak. Ang bawat QR code ay nagbubukas ng verification page na puno ng inyong branding — sa inyong mga kulay, logo, at tono — at nagsasabi sa konsyumer kung tunay ba ang produktong hawak nila."
+[feat2_title]
+other = "Pagtuklas ng Peke"
+[feat2_desc]
+other = "Hindi naghahayag ng sarili ang peke. Nahahanap sila ng aming sistema — sa pamamagitan ng scan pattern analysis, geographic anomaly detection, at pagsubaybay sa distribution zones. Makakatanggap kayo ng alerto bago kumalat ang pinsala."
+[feat3_title]
+other = "Mga Campaign at Consumer Engagement"
+[feat3_desc]
+other = "Karamihan sa mga tatak ay nawawalan ng customer sa sandaling mabili nila ang produkto. Sa WEQRIOUS, ang bawat scan ay pagkakataon na magpatakbo ng promo, mangalap ng feedback, at magtayo ng loyalty — ginagawang pinaka-gamit na marketing channel ang inyong packaging."
+[feat4_title]
+other = "Pamamahala ng Warranty"
+[feat4_desc]
+other = "Nagrerehistro ng warranty ang konsyumer sa pamamagitan ng pag-scan. Dumadaan ang mga claim sa isang structured workflow na kontrolado ng inyong team. Wala nang spreadsheet, wala nang nawawalang papel — malinis na proseso mula sa registration hanggang resolution."
+[feat5_title]
+other = "Pagsubaybay ng Distribusyon"
+[feat5_desc]
+other = "Alamin nang eksakto kung nasaan ang inyong mga produkto — at kung saan hindi sila dapat. Subaybayan ang inventory sa bawat tier ng distribution network, at makakatanggap kayo ng alerto kapag lumitaw ang produkto sa labas ng authorized na teritoryo."
+[feat6_title]
+other = "Analytics at Insights"
+[feat6_desc]
+other = "Ang bawat scan ay isang data point. Tingnan kung nasaan ang inyong konsyumer, paano sila nakikipag-ugnayan, at kung saan lumalabas ang mga banta — lahat sa isang dashboard na may real-time heatmaps at trend analysis."
+
+[industries_title]
+other = "Binuo para sa mga Industriyang Nangangailangan ng Authentikasyon"
+[ind1_title]
+other = "Tabako"
+[ind1_desc]
+other = "Pagsunod sa excise, scan-to-win promotions, pagtuklas ng grey-market"
+[ind2_title]
+other = "Pharmaceuticals"
+[ind2_desc]
+other = "Authentikasyon ng gamot, pagsubaybay ng batch recall, warranty para sa medical devices"
+[ind3_title]
+other = "Inumin"
+[ind3_desc]
+other = "Loyalty programs, campaign engagement, regional distribution tracking"
+[ind4_title]
+other = "Electronics"
+[ind4_desc]
+other = "Pagrehistro ng warranty, counterfeit detection, post-sale support"
+[ind5_title]
+other = "Cosmetics"
+[ind5_desc]
+other = "Proteksyon ng tatak, consumer engagement, product feedback surveys"
+[ind6_title]
+other = "Fashion at Damit"
+[ind6_desc]
+other = "Pag-verify ng pagiging tunay ng tatak, anti-counterfeiting para sa premium goods, tiwala ng konsyumer"
+[ind7_title]
+other = "Automotive Parts"
+[ind7_desc]
+other = "Warranty claims workflow, counterfeit alerting, pagsubaybay sa distributor"
+[ind8_title]
+other = "Pintura at Coatings"
+[ind8_desc]
+other = "Batch verification, pagpapatupad ng distribution zone, trade promotions"
+[ind9_title]
+other = "Pangkalahatang Manufacturing"
+[ind9_desc]
+other = "Supply chain visibility, anti-counterfeit compliance, consumer analytics"
+
+[highlights_title]
+other = "Enterprise-Grade. Startup-Simple."
+[hl1_title]
+other = "Ang Inyong Tatak, Nasa Unahan"
+[hl1_desc]
+other = "Ang bawat page na nakikita ng customer ninyo ay sa inyo ang itsura, hindi sa amin."
+[hl2_title]
+other = "Handa sa Ilang Minuto"
+[hl2_desc]
+other = "Walang infrastructure na kailangang i-setup. Mag-sign up, i-configure, at maglive — ang inyong workspace ay ganap na hiwalay at ligtas mula sa unang araw."
+[hl3_title]
+other = "Para sa Southeast Asia"
+[hl3_desc]
+other = "Binuo mula sa simula para sa mga pamilihang ASEAN, na may lokal na pagsunod at regional na nuansa na integrated."
+[hl4_title]
+other = "Kontroladong Access ng Team"
+[hl4_desc]
+other = "Bigyan ang inyong team ng eksaktong access na kailangan — hindi kulang, hindi labis."
+[hl5_title]
+other = "Direktang Ugnay sa Customer"
+[hl5_desc]
+other = "Makipag-ugnayan sa konsyumer nang hindi aalis sa platform."
+[hl6_title]
+other = "Konektadong mga Distributor"
+[hl6_desc]
+other = "May sariling portal ang inyong mga partner upang pamahalaan ang shipments at inventory, habang kayo ay may buong visibility."
+
+[pricing_title]
+other = "Mga Plano na Lumalaki Kasama ng Inyong Negosyo"
+[plan_basic_tier]
+other = "Basic"
+[plan_basic_desc]
+other = "Para sa mga tatak na nagsisimula sa product authentication at scan tracking."
+[plan_intermediate_tier]
+other = "Intermediate"
+[plan_intermediate_desc]
+other = "Para sa mga tatak na handang makiugnay sa konsyumer, labanan ang peke, at pamahalaan ang warranty."
+[plan_pro_tier]
+other = "Pro"
+[plan_pro_desc]
+other = "Para sa mga tatak na umoopera sa iba't ibang rehiyon at distribution networks."
+
+[faq_title]
+other = "Madalas Itanong"
+[faq1_q]
+other = "Gaano kabilis namin madedeploy ang WEQRIOUS para sa aming mga produkto?"
+[faq1_a]
+other = "Karamihan sa mga tatak ay nag-go live sa loob ng isang linggo. Mag-sign up, gumawa ng inyong mga produkto, mag-generate ng QR codes, at mag-print. Walang hardware installation o app development na kailangan — nag-scan ang konsyumer gamit ang kahit anong smartphone camera."
+[faq2_q]
+other = "Maaari bang i-customize ang platform upang tumugma sa identity ng aming tatak?"
+[faq2_a]
+other = "Ganap. Ang bawat consumer-facing page — validation, warranty, campaign — ay white-labeled ng inyong logo, kulay, at imahe. Maaari kayong gumawa ng maraming templates at magtakda ng seasonal themes."
+[faq3_q]
+other = "Paano gumagana ang counterfeit detection nang walang specialized na hardware?"
+[faq3_a]
+other = "Gumagamit ang WEQRIOUS ng matalinong software-based detection. Bawat QR code ay natatangi at nasusubaybayan. Ini-flag ng sistema ang mga anomalya tulad ng sobrang scan, impossible-travel patterns (ang parehong code na na-scan sa dalawang malalayong lungsod sa ilang minuto), at mga produktong lumalabas sa labas ng authorized distribution zone."
+[faq4_q]
+other = "Ligtas ba ang aming data?"
+[faq4_a]
+other = "Nakabaon ang seguridad sa bawat layer. Gumagamit kami ng JWT-based authentication na may HttpOnly cookies, tenant-isolated data architecture, kumpletong audit logging, at infrastructure na pinatatag ayon sa industry best practices. Hindi ibinabahagi ang inyong data sa pagitan ng mga tenant."
+
+[contact_title]
+other = "Handa na Bang Protektahan ang Inyong Produkto at Makipag-ugnayan sa Customer?"
+[contact_subtitle]
+other = "Sumama sa mga tatak sa buong Southeast Asia na pinagkakatiwalaan ang WEQRIOUS upang labanan ang peke, palakasin ang consumer engagement, at i-unlock ang real-time product intelligence."
+
+[lang_banner_prompt]
+other = "Magagamit din sa iyong wika ang pahinang ito."
+[lang_banner_switch]
+other = "Tingnan sa {{ .Language }}"
+[lang_banner_dismiss]
+other = "Isara"
+[lang_switcher_label]
+other = "Wika"
+
+[notfound_message]
+other = "Paumanhin, hindi namin mahanap ang hinahanap ninyong pahina."
+[notfound_back]
+other = "Bumalik sa Home"

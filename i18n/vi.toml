@@ -1,0 +1,197 @@
+# WeQRious — Tiếng Việt (pháp chính, thương mại)
+
+[meta_title]
+other = "WeQRious — Chặn Hàng Giả. Làm Chủ Chuỗi Cung Ứng."
+
+[meta_description]
+other = "WeQRious — Ngăn chặn hàng giả và truy vết sản phẩm của bạn từ nhà máy đến người tiêu dùng bằng mã QR bảo mật."
+
+[meta_keywords]
+other = "chống hàng giả, mã QR, bảo vệ thương hiệu, truy vết phân phối, xác thực sản phẩm"
+
+[theme_system]
+other = "Hệ thống"
+[theme_light]
+other = "Sáng"
+[theme_dark]
+other = "Tối"
+
+[nav_login]
+other = "Đăng nhập"
+
+[hero_title]
+other = "Chặn Hàng Giả Trước Khi Chúng Gây Thiệt Hại."
+[hero_subtitle]
+other = "Nền tảng toàn diện biến mã QR thành lá chắn chống hàng giả mạnh mẽ, kênh tương tác với người tiêu dùng, và động cơ phân tích kinh doanh."
+[hero_cta]
+other = "Liên hệ với chúng tôi"
+
+[problems_title]
+other = "Hàng Giả Giết Chết Doanh Thu. Nhãn Thụ Động Không Giúp Ích."
+[problems_body1]
+other = "Hàng giả trên toàn cầu gây thiệt hại cho doanh nghiệp hơn 500 tỷ đô la mỗi năm thông qua doanh thu thất thoát, tổn hại thương hiệu, và rủi ro an toàn người tiêu dùng. Nhãn hologram truyền thống và mã QR tĩnh không cung cấp thông tin theo thời gian thực — không cho biết khi nào hàng giả xuất hiện, được quét ở đâu, hay ai đã quét."
+[problems_body2]
+other = "Tệ hơn nữa, mỗi lần quét sản phẩm là một cơ hội bị bỏ lỡ. Hàng triệu người tiêu dùng tương tác với bao bì của bạn mỗi ngày, nhưng hầu hết các thương hiệu không thu thập được bất kỳ dữ liệu nào từ những khoảnh khắc đó."
+[problems_body3]
+other = "<strong>WEQRIOUS thay đổi cả hai.</strong> Chúng tôi biến mỗi lần quét thành sự kiện xác thực và mỗi lần xác thực thành cơ hội tương tác — mang đến cho bạn khả năng bảo vệ và thấu hiểu trên một nền tảng duy nhất."
+
+[hiw_title]
+other = "Ba Bước. Bảo Vệ Toàn Diện."
+[hiw_step1_title]
+other = "Tạo & In"
+[hiw_step1_desc]
+other = "Tạo mã QR duy nhất cho mỗi đơn vị sản phẩm hoặc lô hàng. Cấu hình trang xác minh, biểu mẫu bảo hành và trải nghiệm chiến dịch — tất cả trên một bảng điều khiển. Đặt in ấn chuyên nghiệp hoặc tích hợp với dây chuyền sản xuất hiện có của bạn."
+[hiw_step2_title]
+other = "Người Tiêu Dùng Quét để Xác Minh"
+[hiw_step2_desc]
+other = "Khách hàng quét mã QR bằng camera điện thoại. Ngay lập tức, họ biết sản phẩm có phải là chính hãng — cùng với thương hiệu, thông tin sản phẩm và huy hiệu chứng nhận của bạn. Không cần tải ứng dụng."
+[hiw_step3_title]
+other = "Tương Tác, Bảo Vệ, Phân Tích"
+[hiw_step3_desc]
+other = "Mỗi lần quét cung cấp dữ liệu theo thời gian thực vào bảng điều khiển của bạn: bản đồ nhiệt vị trí, cảnh báo hàng giả, đăng ký bảo hành và mức tham gia chiến dịch. Các mẫu đáng ngờ được gắn cờ tự động để bạn có thể hành động nhanh chóng."
+
+[features_title]
+other = "Tất Cả Những Gì Bạn Cần Trên Một Nền Tảng"
+[feat1_title]
+other = "Xác Thực Sản Phẩm"
+[feat1_desc]
+other = "Khách hàng của bạn quét. Thương hiệu của bạn lên tiếng. Mỗi mã QR mở ra một trang xác minh được gắn thương hiệu đầy đủ — với màu sắc, logo và tiếng nói của bạn — cho người tiêu dùng biết sản phẩm họ đang cầm có thật hay không."
+[feat2_title]
+other = "Phát Hiện Hàng Giả"
+[feat2_desc]
+other = "Hàng giả không tự giới thiệu. Hệ thống của chúng tôi vẫn phát hiện ra chúng — thông qua phân tích mẫu quét, phát hiện bất thường địa lý và giám sát vùng phân phối. Bạn nhận cảnh báo trước khi thiệt hại lan rộng."
+[feat3_title]
+other = "Chiến Dịch & Tương Tác Người Tiêu Dùng"
+[feat3_desc]
+other = "Hầu hết các thương hiệu mất khách hàng ngay khi họ mua. Với WEQRIOUS, mỗi lần quét là cơ hội để chạy khuyến mại, thu thập phản hồi và xây dựng lòng trung thành — biến bao bì thành kênh tiếp thị ít được sử dụng nhất của bạn."
+[feat4_title]
+other = "Quản Lý Bảo Hành"
+[feat4_desc]
+other = "Người tiêu dùng đăng ký bảo hành bằng cách quét. Khiếu nại chảy qua quy trình làm việc có cấu trúc mà đội ngũ của bạn kiểm soát. Không còn bảng tính, không còn giấy tờ thất lạc — chỉ là một quy trình sạch từ đăng ký đến giải quyết."
+[feat5_title]
+other = "Theo Dõi Phân Phối"
+[feat5_desc]
+other = "Biết chính xác sản phẩm của bạn đang ở đâu — và ở đâu thì không nên có. Theo dõi hàng tồn kho trên mọi cấp độ của mạng lưới phân phối và nhận cảnh báo khi sản phẩm xuất hiện ngoài lãnh thổ được ủy quyền."
+[feat6_title]
+other = "Phân Tích & Thông Tin Chuyên Sâu"
+[feat6_desc]
+other = "Mỗi lần quét là một điểm dữ liệu. Xem người tiêu dùng của bạn ở đâu, họ tương tác như thế nào và các mối đe dọa đang nổi lên ở đâu — tất cả trên một bảng điều khiển với bản đồ nhiệt theo thời gian thực và phân tích xu hướng."
+
+[industries_title]
+other = "Xây Dựng Cho Các Ngành Nơi Tính Xác Thực Quan Trọng"
+[ind1_title]
+other = "Thuốc lá"
+[ind1_desc]
+other = "Tuân thủ thuế tiêu thụ đặc biệt, khuyến mại quét-để-thắng, phát hiện thị trường xám"
+[ind2_title]
+other = "Dược phẩm"
+[ind2_desc]
+other = "Xác thực thuốc, truy vết thu hồi lô, bảo hành thiết bị y tế"
+[ind3_title]
+other = "Đồ uống"
+[ind3_desc]
+other = "Chương trình khách hàng thân thiết, tương tác chiến dịch, theo dõi phân phối khu vực"
+[ind4_title]
+other = "Điện tử"
+[ind4_desc]
+other = "Đăng ký bảo hành, phát hiện hàng giả, hỗ trợ sau bán hàng"
+[ind5_title]
+other = "Mỹ phẩm"
+[ind5_desc]
+other = "Bảo vệ thương hiệu, tương tác người tiêu dùng, khảo sát phản hồi sản phẩm"
+[ind6_title]
+other = "Thời trang & May mặc"
+[ind6_desc]
+other = "Xác minh tính xác thực thương hiệu, chống hàng giả cho hàng cao cấp, niềm tin người tiêu dùng"
+[ind7_title]
+other = "Phụ tùng Ô tô"
+[ind7_desc]
+other = "Quy trình yêu cầu bảo hành, cảnh báo hàng giả, theo dõi nhà phân phối"
+[ind8_title]
+other = "Sơn & Lớp phủ"
+[ind8_desc]
+other = "Xác minh lô, thực thi vùng phân phối, khuyến mại thương mại"
+[ind9_title]
+other = "Sản xuất Chung"
+[ind9_desc]
+other = "Khả năng hiển thị chuỗi cung ứng, tuân thủ chống hàng giả, phân tích người tiêu dùng"
+
+[highlights_title]
+other = "Cấp Doanh Nghiệp. Đơn Giản Như Startup."
+[hl1_title]
+other = "Thương Hiệu Của Bạn, Nổi Bật Hàng Đầu"
+[hl1_desc]
+other = "Mỗi trang mà khách hàng của bạn nhìn thấy đều mang thương hiệu của bạn, không phải của chúng tôi."
+[hl2_title]
+other = "Sẵn Sàng Trong Vài Phút"
+[hl2_desc]
+other = "Không cần thiết lập hạ tầng. Đăng ký, cấu hình và triển khai — không gian làm việc của bạn được cô lập hoàn toàn và an toàn ngay từ ngày đầu tiên."
+[hl3_title]
+other = "Xây Dựng Cho Đông Nam Á"
+[hl3_desc]
+other = "Được thiết kế từ đầu cho thị trường ASEAN, với việc tuân thủ địa phương và sự tinh tế vùng miền được tích hợp sẵn."
+[hl4_title]
+other = "Quyền Truy Cập Nhóm, Có Kiểm Soát"
+[hl4_desc]
+other = "Cấp cho đội ngũ của bạn chính xác quyền truy cập họ cần — không hơn, không kém."
+[hl5_title]
+other = "Tiếp Cận Khách Hàng Trực Tiếp"
+[hl5_desc]
+other = "Kết nối với người tiêu dùng mà không cần rời nền tảng."
+[hl6_title]
+other = "Nhà Phân Phối Của Bạn, Được Kết Nối"
+[hl6_desc]
+other = "Đối tác có cổng riêng để quản lý lô hàng và hàng tồn kho, trong khi bạn duy trì khả năng hiển thị đầy đủ."
+
+[pricing_title]
+other = "Gói Phù Hợp Với Quy Mô Doanh Nghiệp Của Bạn"
+[plan_basic_tier]
+other = "Basic"
+[plan_basic_desc]
+other = "Dành cho thương hiệu bắt đầu với xác thực sản phẩm và theo dõi lượt quét."
+[plan_intermediate_tier]
+other = "Intermediate"
+[plan_intermediate_desc]
+other = "Dành cho thương hiệu sẵn sàng tương tác với người tiêu dùng, chống hàng giả và quản lý bảo hành."
+[plan_pro_tier]
+other = "Pro"
+[plan_pro_desc]
+other = "Dành cho thương hiệu hoạt động trên nhiều khu vực và mạng lưới phân phối."
+
+[faq_title]
+other = "Câu Hỏi Thường Gặp"
+[faq1_q]
+other = "Chúng tôi có thể triển khai WEQRIOUS cho sản phẩm của mình nhanh như thế nào?"
+[faq1_a]
+other = "Hầu hết các thương hiệu đi vào hoạt động trong vòng một tuần. Đăng ký, tạo sản phẩm của bạn, tạo mã QR, và in. Không cần cài đặt phần cứng hay phát triển ứng dụng — người tiêu dùng quét bằng bất kỳ camera điện thoại nào."
+[faq2_q]
+other = "Nền tảng có thể tùy chỉnh theo nhận diện thương hiệu của chúng tôi không?"
+[faq2_a]
+other = "Hoàn toàn có thể. Mọi trang hướng tới người tiêu dùng — xác minh, bảo hành, chiến dịch — đều được gắn nhãn trắng với logo, màu sắc và hình ảnh của bạn. Bạn có thể tạo nhiều mẫu và lên lịch chủ đề theo mùa."
+[faq3_q]
+other = "Việc phát hiện hàng giả hoạt động như thế nào mà không cần phần cứng chuyên dụng?"
+[faq3_a]
+other = "WEQRIOUS sử dụng phát hiện thông minh dựa trên phần mềm. Mỗi mã QR là duy nhất và được theo dõi. Hệ thống gắn cờ các bất thường như quét quá mức, mẫu di chuyển bất khả thi (cùng một mã được quét ở hai thành phố cách xa nhau trong vài phút) và các sản phẩm xuất hiện ngoài vùng phân phối được ủy quyền."
+[faq4_q]
+other = "Dữ liệu của chúng tôi có an toàn không?"
+[faq4_a]
+other = "An ninh được tích hợp trong mọi lớp. Chúng tôi sử dụng xác thực dựa trên JWT với cookie HttpOnly, kiến trúc dữ liệu cô lập theo tenant, ghi nhật ký kiểm toán đầy đủ, và hạ tầng được tăng cường theo các thực tiễn tốt nhất của ngành. Dữ liệu của bạn không bao giờ được chia sẻ giữa các tenant."
+
+[contact_title]
+other = "Sẵn Sàng Bảo Vệ Sản Phẩm và Tương Tác Với Khách Hàng?"
+[contact_subtitle]
+other = "Cùng các thương hiệu trên khắp Đông Nam Á tin tưởng WEQRIOUS trong việc chống hàng giả, thúc đẩy tương tác với người tiêu dùng, và mở khóa thông tin sản phẩm theo thời gian thực."
+
+[lang_banner_prompt]
+other = "Trang này cũng có sẵn bằng ngôn ngữ của bạn."
+[lang_banner_switch]
+other = "Xem bằng {{ .Language }}"
+[lang_banner_dismiss]
+other = "Đóng"
+[lang_switcher_label]
+other = "Ngôn ngữ"
+
+[notfound_message]
+other = "Rất tiếc, chúng tôi không thể tìm thấy trang bạn đang tìm."
+[notfound_back]
+other = "Quay về Trang chủ"

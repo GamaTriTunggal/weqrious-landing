@@ -1,0 +1,33 @@
+{{- $currentLang := .Site.Language.Lang -}}
+{{- $currentPage := . -}}
+<div id="langBanner" class="lang-banner" hidden>
+    <div class="lang-banner-inner">
+        <span class="lang-banner-text" id="langBannerText"></span>
+        <div class="lang-banner-actions">
+            <button type="button" id="langBannerSwitch" class="lang-banner-btn primary"></button>
+            <button type="button" id="langBannerDismiss" class="lang-banner-btn" aria-label="Dismiss">×</button>
+        </div>
+    </div>
+</div>
+<script type="application/json" id="langMapData">
+{
+    "current": "{{ $currentLang }}",
+    "languages": [
+        {{- range $idx, $site := .Sites -}}
+        {{- if $idx }},{{ end }}
+        {
+            "lang": "{{ $site.Language.Lang }}",
+            "code": "{{ $site.Language.LanguageCode }}",
+            "name": "{{ $site.Language.LanguageName }}",
+            {{- with ($site.GetPage $currentPage.Path) }}
+            "url": "{{ .RelPermalink }}",
+            {{- else }}
+            "url": "{{ $site.BaseURL }}",
+            {{- end }}
+            "switchLabel": "{{ $site.Language.Params.switchLabel | default (printf "Switch to %s" $site.Language.LanguageName) }}",
+            "switchPrompt": "{{ $site.Language.Params.switchPrompt | default (printf "Would you like to view this page in %s?" $site.Language.LanguageName) }}"
+        }
+        {{- end }}
+    ]
+}
+</script>

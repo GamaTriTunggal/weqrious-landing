@@ -1,0 +1,87 @@
+baseURL = "https://weqrious.com/"
+title = "WeQRious"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+enableRobotsTXT = true
+enableGitInfo = false
+disableKinds = ["taxonomy", "term", "RSS"]
+
+[params]
+  brandName = "WeQRious"
+  brandNameUpper = "WEQRIOUS"
+  companyName = "PT. Multi Tekno Indonesia"
+  whatsappNumber = "6285270004060"
+  whatsappDisplay = "+62 852 7000 4060"
+  loginUrl = "https://app.weqrious.com"
+  ogImage = "/images/og-image.png"
+  twitterSite = ""
+
+[outputs]
+  home = ["HTML", "SITEMAP"]
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    languageCode = "en"
+    weight = 1
+  [languages.id]
+    languageName = "Bahasa Indonesia"
+    languageCode = "id"
+    weight = 2
+  [languages.ms]
+    languageName = "Bahasa Melayu"
+    languageCode = "ms"
+    weight = 3
+  [languages.fil]
+    languageName = "Tagalog"
+    languageCode = "fil"
+    weight = 4
+  [languages.vi]
+    languageName = "Tiếng Việt"
+    languageCode = "vi"
+    weight = 5
+  [languages.zh-cn]
+    languageName = "简体中文"
+    languageCode = "zh-CN"
+    weight = 6
+  [languages.zh-hk]
+    languageName = "繁體中文 (香港)"
+    languageCode = "zh-HK"
+    weight = 7
+  [languages.zh-tw]
+    languageName = "繁體中文 (台灣)"
+    languageCode = "zh-TW"
+    weight = 8
+  [languages.ko]
+    languageName = "한국어"
+    languageCode = "ko"
+    weight = 9
+  [languages.ja]
+    languageName = "日本語"
+    languageCode = "ja"
+    weight = 10
+  [languages.km]
+    languageName = "ភាសាខ្មែរ"
+    languageCode = "km"
+    weight = 11
+  [languages.th]
+    languageName = "ภาษาไทย"
+    languageCode = "th"
+    weight = 12
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[build]
+  writeStats = false
+
+[minify]
+  [minify.tdewolff]
+    [minify.tdewolff.html]
+      keepWhitespace = true
