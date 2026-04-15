@@ -653,7 +653,7 @@ a {
    =================================== */
 
 /* Tablet */
-@media (max-width: 768px) {\n
+@media (max-width: 768px) {
     .industry-grid,
     .pricing-grid {
         grid-template-columns: 1fr;
